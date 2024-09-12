@@ -1,5 +1,5 @@
 
-# Deep learning with uncertainty quantification for predicting dice coefficient of computational histopathology image segmentation
+# Deep learning with uncertainty quantification for predicting Dice coefficient of computational histopathology image segmentation
 
 
 
